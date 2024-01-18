@@ -1,2 +1,2 @@
-Отправить отклик на вакансию
+Отклик на вакансию
 Intern Programmer (Game Logic)
